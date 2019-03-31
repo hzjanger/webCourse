@@ -1,0 +1,39 @@
+
+.box{
+    /*position: absolute;*/
+    width: 600px;
+    margin: 0 auto;
+    /*align: center;*/
+    border: 1px blanchedalmond solid;
+    padding: 30px 100px;
+}
+.box h1{
+    text-align: center;
+}
+.box ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.headTime{
+    text-align: center;
+}
+.headDiv{
+    width: 300px;
+    text-align: left;
+    margin-left: 212px;
+}
+.headDiv li{
+    padding-top: 1px;
+}
+.bodyUl{
+    /*background-color: blanchedalmond;*/
+    margin-left: 70px;
+}
+.secondUl li {
+    margin-left: 35px;
+}
+.thirdUl li{
+    margin-left: 10px;
+}
